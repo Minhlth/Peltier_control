@@ -1,0 +1,2 @@
+source D:/ESP32/E-NOSE/Peltier_control/build/gdbinit/symbols
+source D:/ESP32/E-NOSE/Peltier_control/build/gdbinit/connect
