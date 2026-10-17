@@ -44,12 +44,12 @@ menu "Peltier Controller Configuration"
             default y
 
         config PELTIER_TEMP_ON_X10
-            int "Turn ON Temperature Threshold (x0.1 C, e.g. 250 = 25.0 C)"
-            default 250
+            int "Turn ON Temperature Threshold (x0.1 C, e.g. 280 = 28.0 C)"
+            default 280
 
         config PELTIER_TEMP_OFF_X10
-            int "Turn OFF Temperature Threshold (x0.1 C, e.g. 200 = 20.0 C)"
-            default 200
+            int "Turn OFF Temperature Threshold (x0.1 C, e.g. 260 = 26.0 C)"
+            default 260
 
         config PELTIER_HUM_ON_X10
             int "Turn ON Humidity Threshold (x0.1 %RH, e.g. 650 = 65.0 %)"

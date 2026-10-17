@@ -18,7 +18,7 @@ set(HEAD_HASH)
 file(READ "D:/ESP32/E-NOSE/Peltier_control/build/CMakeFiles/git-data/HEAD" HEAD_CONTENTS LIMIT 1024)
 
 string(STRIP "${HEAD_CONTENTS}" HEAD_CONTENTS)
-set(GIT_DIR "D:/ESP32/.espressif/v6.0.1/esp-idf/.git")
+set(GIT_DIR "D:/ESP32/E-NOSE/Peltier_control/.git")
 # handle git-worktree
 if(EXISTS "${GIT_DIR}/commondir")
 	file(READ "${GIT_DIR}/commondir" GIT_DIR_NEW LIMIT 1024)

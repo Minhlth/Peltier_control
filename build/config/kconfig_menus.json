@@ -4968,7 +4968,7 @@
                         "id": "PELTIER_TEMP_ON_X10",
                         "name": "PELTIER_TEMP_ON_X10",
                         "range": null,
-                        "title": "Turn ON Temperature Threshold (x0.1 C, e.g. 250 = 25.0 C)",
+                        "title": "Turn ON Temperature Threshold (x0.1 C, e.g. 280 = 28.0 C)",
                         "type": "int"
                     },
                     {
@@ -4978,7 +4978,7 @@
                         "id": "PELTIER_TEMP_OFF_X10",
                         "name": "PELTIER_TEMP_OFF_X10",
                         "range": null,
-                        "title": "Turn OFF Temperature Threshold (x0.1 C, e.g. 200 = 20.0 C)",
+                        "title": "Turn OFF Temperature Threshold (x0.1 C, e.g. 260 = 26.0 C)",
                         "type": "int"
                     },
                     {
