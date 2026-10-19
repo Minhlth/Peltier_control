@@ -1,7 +1,7 @@
 {
     "version":            "1.3",
     "project_name":       "peltier_controller",
-    "project_version":    "b30975e-dirty",
+    "project_version":    "8a8bf91-dirty",
     "project_path":       "D:/ESP32/E-NOSE/Peltier_control",
     "idf_path":           "D:/ESP32/.espressif/v6.0.1/esp-idf",
     "build_dir":          "D:/ESP32/E-NOSE/Peltier_control/build",
